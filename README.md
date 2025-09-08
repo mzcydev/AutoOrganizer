@@ -33,7 +33,7 @@ A simple **file auto-organizer** in Java (Swing). Watch a folder, define rules, 
 ## 🚀 Run
 
 ```bash
-git clone https://github.com/YOURNAME/auto-organizer.git
+git clone https://github.com/mzcydev/AutoOrganizer.git
 cd auto-organizer
 ./gradlew run         # Windows: gradlew.bat run
 ```
